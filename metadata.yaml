@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33838'
     url: http://www.gutenberg.org/2009/agents/33838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29315#Australia-Revenged
 gutenberg_issued: '2009-07-04'
 gutenberg_type: Text
 identifiers:
